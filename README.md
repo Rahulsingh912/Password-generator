@@ -1,2 +1,2 @@
 # Password-generator
-html,css js
+html,css, js
